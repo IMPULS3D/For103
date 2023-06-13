@@ -3,6 +3,7 @@ All the LED lights on the board will light up in a color, RED or BLUE
 If the light is RED, press the RIGHT button to score.
 If the light is BLUE, press the LEFT button to score.
 If the wrong button is pressed, you lose, and a song will play to indicate your score.
+To end/turn off the game, simply flip the switch again.
 
 The switch will indicate when the game begins. 
 The LED lights light up at random.
